@@ -118,7 +118,7 @@ def cargar_o_entrenar_modelo():
     
     try:
         # Cargar el dataset
-        ruta_dataset = "modelos_bayes/Data (2).csv"
+        ruta_dataset = "modelos_bayes/Data.csv"
         
         # Primero, verificar el contenido del archivo
         try:
